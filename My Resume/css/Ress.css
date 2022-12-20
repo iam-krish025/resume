@@ -1,0 +1,47 @@
+﻿#skills{
+    color : blue;
+    font-size: 30px;
+    text-align: center;
+}
+#education{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}
+#con2{
+    background-color: rgb(252, 252, 254);
+    height: 1100px;
+    margin-left: 1px;
+}
+#con3{
+    background-color: rgb(252, 252, 252);
+    margin-left: 1px;
+}
+#work{
+    color: blue;
+    font-size:30px;
+    text-align: left;
+}    
+
+#img1{
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    margin-left: 50px;
+}
+#name{
+    font-style: italic;
+    font-size: 30px;
+}
+#year{
+    margin-left: 750px;
+}
+#pp{
+    background-color: rgb(110, 113, 115) ;
+}
+#lang {
+	color: blue;
+	align : center;
+	font-size:  30px;
+	padding-left: 60px;
+}
